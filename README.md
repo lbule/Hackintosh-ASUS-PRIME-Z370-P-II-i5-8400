@@ -1,0 +1,2 @@
+# Hackintosh-ASUS-PRIME-Z370-P-II-i5-8400
+黑苹果+华硕-PRIME Z370-P II+i5-8400
